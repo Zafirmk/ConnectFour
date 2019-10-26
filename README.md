@@ -21,7 +21,7 @@ pygame.image.load(<YOUR IMAGE PATH HERE>)
 ```
 ## Controls
 * **LEFT** Arrow Key: Move Cursor Left
-* **RIGHt** Arrow Key: Move Cursor Right
+* **RIGHT** Arrow Key: Move Cursor Right
 * **DOWN** Arrow Key: Drop Token down
 
 ## Game Objective
